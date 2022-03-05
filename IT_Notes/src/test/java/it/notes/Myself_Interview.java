@@ -1,0 +1,48 @@
+package it.notes;
+
+public class Myself_Interview {
+public static void main(String[] args) {
+	System.out.println("As you have seen my resume, I have been working in this industry as a Software Quality assurance and Tester over 6 years. During this period, I have good hands on experience about Manual, Automation and Backend processes.\n"
+			+ "I have successfully performed various types of testing including functional, negative, positive system, GUI, regression, smoke, sanity, cross browsers, black box, and white box testing as well.\n"
+			+ "I have worked on multiple domains such as Insurance, Finance and, Health care industries. Currently I am working in a financial domain and, was involved at the very beginning of the project. I joined as a Senior Automation QA Engineer.\n"
+			+ "I have agile environment with 2 weeks Sprint. I have sprint planning, grooming,   retrospective and daily scrum meeting. I assigned specific tasks based on PBI by my scrum master.\n"
+			+ "Before starting task, I need a clear understanding as my requirements were –clear, Consistence and testable, if I have any question than I discuss with my BA.\n"
+			+ "Than check my design proto type.\n"
+			+ "After that, I try to understand my application function, which need to test and create my manual test cases.\n"
+			+ "In addition, I am using JIRA for agile follow up; create issues / story / bugs. Also, use HP-Quality Center, ALM, to create test cases.\n"
+			+ "When my application is ready and stable, I execute my manual test cases.\n"
+			+ "If my expectation and actual result do not match than, open defect or bug and assign to my Dev with\n"
+			+ "Defect-\n"
+			+ "•	Description\n"
+			+ "•	Step to reproduce\n"
+			+ "•	URL\n"
+			+ "•	Screen shot\n"
+			+ "•	Severity & priority\n"
+			+ "     When dev fixed the defect then I test again if-\n"
+			+ "•	Fixed than closed the defect\n"
+			+ "•	If not fixed than reopen the defect and assign to my dev\n"
+			+ "     In addition, I do lots of negative testing and got most of my defects.\n"
+			+ "\n"
+			+ "Then I start to develop my Automation test cases by using – Selenium WebDriver and java programing language. I am following BBD with Cucumber. Also used \n"
+			+ "•	TestNG and Junit for unit testing framework,\n"
+			+ "•	 Maven for build testing, \n"
+			+ "•	Jenkins for CI, and \n"
+			+ "•	GitHub for Version Control.\n"
+			+ "I have good hands on experience to develop Automation framework from scratch. I am using Data driven framework to handle data with some key words to call specific function, so it most likely Hybrid approach.\n"
+			+ "Also used Selenium Page Factory concept for all element and implement all java OOPS concept in coding.\n"
+			+ "\n"
+			+ "I have done backend testing by developing SQL statements and, executed them for data base validation, and can write complex SQL queries.\n"
+			+ "I am a self-starter and good team player. I love to face new challenges and overcome those challenges.\n"
+			+ "It will be highly appreciated if I get an opportunity to share my extensive experience in your company.\n"
+			+ "This is in short about myself and please ask me if you have any question.\n"
+			+ "Do you have any question?\n"
+			+ "After interview, your interviewer will ask this Question, you need to some question, and they will understand as you really have interest to join.\n"
+			+ "Answer:\n"
+			+ "Yes, I want to know-\n"
+			+ "Q1- Tell me about your current project condition\n"
+			+ "Q2- Tell me about team structure\n"
+			+ "Q3- Tell who will be good fit in your project\n"
+			+ "");
+}
+
+}
